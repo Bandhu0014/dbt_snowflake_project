@@ -1,0 +1,7 @@
+version: 2
+
+sources:
+  - name: hr
+    schema: raw_hr_data
+    tables:
+      - name: employees
