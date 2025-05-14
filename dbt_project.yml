@@ -6,5 +6,3 @@ models:
   dbt_snowflake_project:
     staging:
       +materialized: view
-    marts:
-      +materialized: table

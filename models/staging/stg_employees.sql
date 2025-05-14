@@ -1,0 +1,1 @@
+SELECT * FROM raw.hr_employees;
